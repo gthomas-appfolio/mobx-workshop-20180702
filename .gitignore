@@ -1,0 +1,12 @@
+._*
+.DS_Store
+.DS_Store?
+.idea
+.nyc_output
+.Spotlight-V100
+.Trashes
+coverage
+dist
+Icon?
+node_modules
+npm-debug.log
